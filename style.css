@@ -1,0 +1,33 @@
+body{
+    background-color: #4F81FE;
+}
+
+main{
+    width: 100vw;
+    height: 100vh;
+}
+
+.box{
+    width: 70%;
+    background-color: white;
+    border-radius: 5px;
+}
+
+.clock-area{
+    width: 50%;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    border-radius: 5px;
+}
+
+p,h2{
+    margin-bottom: 0;
+}
+
+.btn{
+    width: 10%;
+}
+
+a{
+    text-decoration: none;
+    
+}
